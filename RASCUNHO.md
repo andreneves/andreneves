@@ -1,0 +1,3 @@
+   <a href="https://api.whatsapp.com/send?phone=55219999999" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://web.facebook.com/profile.php?id=999999999999999&_rdc=1&_rdr" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+   <a href="https://discord.com/channels/999999" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
