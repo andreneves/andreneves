@@ -33,6 +33,10 @@
    <a href="https://www.linkedin.com/in/andrcombr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:andr@andr.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.instagram.com/andreneves_com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://www.reddit.com/" target="_blank"><img src="https://aleen42.github.io/badges/src/reddit.svg" target="_blank"></a>
+   <a href="https://stackoverflow.com/" target="_blank"><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" target="_blank"></a>
+
+
   
   ![Snake animation](https://github.com/andreneves/andreneves/blob/main/github-user-contribution.svg)
 </div>
