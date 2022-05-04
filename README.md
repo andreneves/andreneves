@@ -26,6 +26,7 @@
 </div>
   
 ##
+
   
 ### Redes Sociais 
 
@@ -40,4 +41,5 @@
   
   ![Snake animation](https://github.com/andreneves/andreneves/blob/main/github-user-contribution.svg)
 </div>
+
 
