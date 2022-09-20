@@ -38,7 +38,7 @@
    <a href="https://stackoverflow.com/" target="_blank"><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" target="_blank"></a>
 
 
-  <!-->
+  <!--
   ![Snake animation](https://github.com/andreneves/andreneves/blob/main/github-user-contribution.svg)
   -->
 </div>
