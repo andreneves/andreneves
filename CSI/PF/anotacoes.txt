@@ -1,0 +1,102 @@
+C.R.U.D.
+C - CREATE / CRIAR
+R - RETRIEVE / LISTAR - EXIBIR
+U - UPDATE / ATUALIZAR
+D - DELETE / EXCLUIR
+
+
+Localização dos diretórios:
+
+CONTROLLER
+app\Http\Controllers
+
+MODEL
+app\Models
+
+VIEW
+resources\views
+
+Arquivo de configuração
+.env
+
+Arquivo de rotas:
+routes\web.php
+
+DATABASE:
+
+Migrations
+database\migrations
+
+Seeders
+database\seeders
+
+-- EXECUCAO
+
+Prompt:
+cd c:/xampp/htdocs
+
+composer create-project laravel/laravel NomeDoProjeto
+
+
+Navegador:
+http://localhost/NomeDoProjeto/public/
+
+
+Abrir VSCODE (Arquivo -> Abrir pasta):
+c:/xampp/htdocs/NomeDoProjeto
+
+
+Abrir terminal no VSCODE e digitar:
+composer require laravelcollective/html
+
+
+Criação migration
+php artisan make:migration create_NomeDaTabela_table
+
+
+Criação SEEDER
+php artisan make:seeder NomeDoModeloSeeder
+
+
+Criação de uma só vez de controller com resource e model
+php artisan make:controller NomedoModeloController --resource --model=NomedoModelo
+
+URL do produto
+http://localhost/NomeDoProjeto/public/NomedoModelo
+
+
+
+
+OPERACOES ELOQUENT
+
+        //index / listar
+        $produtos = Produto::orderBy('nome', 'ASC')
+                    ->get();
+        dd($produtos);
+
+
+        //store / salvar
+        $produto = new Produto;
+        $produto->nome  = 'Monitor Ultrawide 36';
+        $produto->valor = 3000;
+        $produto->save();
+
+        dd('Salvou!');
+
+        //show / exibir
+        $produto = Produto::findOrFail(4);
+        dd($produto);
+
+        //update / atualizar
+        $produto = Produto::findOrFail(4);
+        $produto->nome  = 'Super Monitor Ultrawide 36 plus';
+        $produto->valor = 5000;
+        $produto->save();
+
+        // dd('Atualizou!');
+
+        //destroy / excluir
+        $produto = Produto::findOrFail(4);
+        $produto->delete();
+
+        dd('Excluiu!');

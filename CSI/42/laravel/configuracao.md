@@ -1,0 +1,6 @@
+PHP
+max_execution_time
+max_input_time
+max_input_vars
+post_max_size
+upload_max_filesize

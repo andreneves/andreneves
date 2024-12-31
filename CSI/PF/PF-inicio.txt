@@ -1,0 +1,31 @@
+C.R.U.D.
+C - CREATE / CRIAR
+R - RETRIEVE / LISTAR - EXIBIR
+U - UPDATE / ATUALIZAR
+D - DELETE / EXCLUIR
+
+
+Localização dos diretórios:
+
+CONTROLLER
+app\Http\Controllers
+
+MODEL
+app\Models
+
+VIEW
+resources\views
+
+Arquivo de configuração
+.env
+
+Arquivo de rotas:
+routes\web.php
+
+DATABASE:
+
+Migrations
+database\migrations
+
+Seeders
+database\seeders
