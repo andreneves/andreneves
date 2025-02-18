@@ -1,4 +1,4 @@
--- BDIIA01
+-- CDIIA01
 
 
 -- Comentários
@@ -17,25 +17,25 @@
 -- Sintaxe: CREATE DATABASE NomeDoBancoDeDados;
 
 -- Exemplo:
-CREATE DATABASE bd2;
+CREATE DATABASE cd2;
 
 -- Destruição de banco de dados
 -- Sintaxe: DROP DATABASE NomeDoBancoDeDados;
 
 -- Exemplo:
 
-DROP DATABASE bd2;
+DROP DATABASE cd2;
 
 -- Iniciar o uso de um banco de dados
 -- USE NomeDoBancoDeDados;
 
-USE bd2;
+USE cd2;
 
 
 -- Revisão dos tipos de dados
 
 
 -- Listar tabelas de um banco de dados
-show tables from bd2;
+show tables from cd2;
 
 -- Teste de proficiência
