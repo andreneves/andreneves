@@ -24,6 +24,7 @@ select * from alunos;
 
 select nome from alunos;
 
+-- selecao duas colunas
 select nome, idade
 from alunos 
 where idade = 28;
