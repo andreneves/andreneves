@@ -2,7 +2,7 @@
 
 
 -- 1) Execute a sequência de comandos
--- Crie um banco de dados chamado bd2exercicios
+-- Crie um banco de dados chamado cd2exercicios
 -- Diga que irá usar este banco de dados
 
 
