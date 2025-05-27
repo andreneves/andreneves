@@ -1,9 +1,9 @@
--- BDIIA06
+-- CDIIA06
 
-DROP DATABASE bd2;
-CREATE DATABASE bd2;
+DROP DATABASE cd2;
+CREATE DATABASE cd2;
 
-USE bd2;
+USE cd2;
 
 -- Restrições
 -- Constraints
