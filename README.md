@@ -2,7 +2,7 @@
 
 👤 André Neves, carioca.
 
-🎓 Professor de TI, Orientador de Pré-Projeto e Projeto Final - Colégio Santo Inácio - Botafogo-RJ.
+🎓 Professor, Analista de Sistemas e Desenvolvedor - RJ.
 ⚡ Consultor Técnico de Desenvolvimento de Sistemas
 
 ✅ Meus resumos TI:
